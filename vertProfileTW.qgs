@@ -19,10 +19,10 @@
   </projectCrs>
   <layer-tree-group>
     <customproperties/>
-    <layer-tree-layer providerKey="delimitedtext" id="sample_pts_29eddec2_a42b_4d59_92e9_f897bbcd3920" checked="Qt::Checked" expanded="1" name="sample_vert_profile" source="file:///Users/psilotum/Documents/Dropbox/projects/vertProfileTW/sample_pts.csv?type=csv&amp;xField=vert_elevation&amp;yField=latitude&amp;crs=EPSG:4326&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no">
+    <layer-tree-layer providerKey="delimitedtext" id="sample_pts_29eddec2_a42b_4d59_92e9_f897bbcd3920" checked="Qt::Checked" expanded="1" name="sample_vert_profile" source="file:./sample_pts.csv?type=csv&amp;xField=vert_elevation&amp;yField=latitude&amp;crs=EPSG:4326&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer providerKey="delimitedtext" id="sample_pts_22273d7f_2e41_4b87_ba2c_125ad9cb8cc1" checked="Qt::Checked" expanded="1" name="sample_pts" source="file:///Users/psilotum/Documents/Dropbox/projects/vertProfileTW/sample_pts.csv?type=csv&amp;xField=longitude&amp;yField=latitude&amp;crs=EPSG:4326&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no">
+    <layer-tree-layer providerKey="delimitedtext" id="sample_pts_22273d7f_2e41_4b87_ba2c_125ad9cb8cc1" checked="Qt::Checked" expanded="1" name="sample_pts" source="file:./sample_pts.csv?type=csv&amp;xField=longitude&amp;yField=latitude&amp;crs=EPSG:4326&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-group checked="Qt::Checked" expanded="1" name="backgroundLayers">
@@ -1811,7 +1811,7 @@ def my_form_open(dialog, layer, feature):
         </styles>
         <layer-tree-group>
           <customproperties/>
-          <layer-tree-layer providerKey="delimitedtext" id="sample_pts_22273d7f_2e41_4b87_ba2c_125ad9cb8cc1" checked="Qt::Checked" expanded="1" name="sample_pts" source="file:///Users/psilotum/Documents/Dropbox/projects/vertProfileTW/sample_pts.csv?type=csv&amp;xField=longitude&amp;yField=latitude&amp;crs=EPSG:4326&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no">
+          <layer-tree-layer providerKey="delimitedtext" id="sample_pts_22273d7f_2e41_4b87_ba2c_125ad9cb8cc1" checked="Qt::Checked" expanded="1" name="sample_pts" source="file:./sample_pts.csv?type=csv&amp;xField=longitude&amp;yField=latitude&amp;crs=EPSG:4326&amp;spatialIndex=yes&amp;subsetIndex=no&amp;watchFile=no">
             <customproperties/>
           </layer-tree-layer>
           <custom-order enabled="0">
