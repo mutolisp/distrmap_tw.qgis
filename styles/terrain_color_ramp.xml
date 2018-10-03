@@ -1,0 +1,19 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols/>
+  <colorramps>
+    <colorramp type="gradient" name="wiki-2.0_land">
+      <prop v="148,191,139,255" k="color1"/>
+      <prop v="245,244,242,255" k="color2"/>
+      <prop v="0" k="discrete"/>
+      <prop v="Eric Gaba" k="info_authors"/>
+      <prop v="&lt;cpt-city>/wkp/template/wiki-2.0.svg" k="info_cpt-city-gradient"/>
+      <prop v="&lt;cpt-city>/wkp/template/COPYING.xml" k="info_cpt-city-license"/>
+      <prop v="Public domain" k="info_license/informal"/>
+      <prop v="2008" k="info_license/year"/>
+      <prop v="http://fr.wikipedia.org/wiki/Aide:Cartographie" k="info_src/link"/>
+      <prop v="gradient" k="rampType"/>
+      <prop v="0.06;148,191,139,255:0.12;168,198,143,255:0.18;189,204,150,255:0.24;209,215,171,255:0.3;225,228,181,255:0.36;239,235,192,255:0.42;232,225,182,255:0.48;222,214,163,255:0.54;211,202,157,255:0.6;202,185,130,255:0.66;195,167,107,255:0.72;185,152,90,255:0.78;170,135,83,255:0.84;172,154,124,255:0.892857;186,174,154,255:0.928571;202,195,184,255:0.964286;224,222,216,255" k="stops"/>
+    </colorramp>
+  </colorramps>
+</qgis_style>
