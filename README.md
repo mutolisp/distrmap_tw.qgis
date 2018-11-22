@@ -1,6 +1,11 @@
 # distrmap_tw.qgis
 Horizontal and vertical species distribution map of Taiwan
 
+物種的水平及垂直分布圖 QGIS 專案範本檔
+
+DOI: ![](https://zenodo.org/badge/150394934.svg)
+
+
 這個版本庫是 QGIS 繪製物種分布的水平和垂直剖面的範本檔，內容包含了相關所需之圖層以及 .qgs 專案檔。
 輸出結果請參見下圖：
 
@@ -40,3 +45,17 @@ v = 122.1 + L*0.9/3600
 6. 選擇輸出成 pdf 或 png 即可（請參考下圖或 QGIS 文件）
 
 ![](https://github.com/mutolisp/distrmap_tw.qgis/raw/master/docs/export_distr_map.png)
+
+## License 授權
+
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+## Citation 引用
+
+中文引用
+
+林政道 (2018) 物種的水平及垂直分布圖 QGIS 專案範本檔。URL: https://github.com/mutolisp/distrmap_tw.qgis. DOI: 10.5281/zenodo.1493690
+
+English citation
+
+Cheng-Tao Lin (2018) QGIS template for diplaying species distribution by horizontal and vertical view in Taiwan. URL: https://github.com/mutolisp/distrmap_tw.qgis. DOI: 10.5281/zenodo.1493690
