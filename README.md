@@ -3,7 +3,7 @@ Horizontal and vertical species distribution map of Taiwan
 
 物種的水平及垂直分布圖 QGIS 專案範本檔
 
-DOI: ![](https://zenodo.org/badge/150394934.svg)
+[![DOI](https://zenodo.org/badge/82152043.svg)](https://zenodo.org/badge/latestdoi/82152043)
 
 
 這個版本庫是 QGIS 繪製物種分布的水平和垂直剖面的範本檔，內容包含了相關所需之圖層以及 .qgs 專案檔。
