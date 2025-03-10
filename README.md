@@ -58,4 +58,4 @@ v = 122.1 + L*0.9/3600
 
 English citation
 
-Cheng-Tao Lin (2018) QGIS template for diplaying species distribution by horizontal and vertical view in Taiwan. URL: https://github.com/mutolisp/distrmap_tw.qgis. DOI: 10.5281/zenodo.1493690
+Cheng-Tao Lin (2018) QGIS template for displaying species distribution by horizontal and vertical view in Taiwan. URL: https://github.com/mutolisp/distrmap_tw.qgis. DOI: 10.5281/zenodo.1493690
